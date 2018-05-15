@@ -1,0 +1,27 @@
+<ion-view view-title="">
+  <ion-content>
+    <ion-list class="list">
+      <ion-item 
+      class="item-text-wrap" 
+      ng-repeat="item in rooms | filter: {shortname:whichsaloon}">
+        <img ng-src="img/{{item.shortname}}.jpg" class="rooms">
+        <h1>{{item.name}}</h1>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+        <div>
+          <h2 class="info"> <i class="fas fa-map-marker-alt"></i> &nbsp; {{item.adress}}</h2>
+          <hr>
+          <h2 class="info"> <i class="far fa-clock"></i> &nbsp; {{item.open}}</h2>
+          <hr>
+          <h2 class="info"> <i class="fas fa-phone"></i> &nbsp; {{item.number}}</h2>
+          <hr>
+          <h2 class="info"> <i class="fas fa-globe"></i> &nbsp; {{item.website}}</h2>
+          <hr>
+          <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid nam deleniti rem at accusantium nisi fugiat minus aspernatur odio? Saepe doloremque tenetur aliquam natus totam est dolores velit beatae voluptates.</p>
+        </div>
+    </ion-list>
+  </ion-content>
+</ion-view>

@@ -1,0 +1,92 @@
+
+   [
+      {
+          "name": "Cut & Color",
+          "info": "Detta rum är perfekt för dig som reser ensam, rummet är rymligt med stor säng och utrustat med allt du behöver för en trevlig vistelse",
+          "price": "400",
+          "adress": "Salongsgatan 1, 123 Stockholm",
+          "open": "Open to 5pm Today",
+          "number": "08-527 663 98",
+          "website": "cutandcolor.com",
+          "shortname":"hair1"
+          
+      },
+      {
+           "name": "Over Hair",
+           "info": "Detta rum är perfekt för er som reser i par. Rummet har gott om plats för två personer och sängen går att dela i två om så önskas",
+           "price": "400",
+           "adress": "Salongsgatan 1, 123 Stockholm",
+           "open": "Open to 5pm Today",
+           "number": "08-527 663 98",
+           "website": "overhair.com",
+           "shortname":"hair2"
+           
+       },
+       {
+           "name": "We Hair",
+           "info": "Detta rum är perfekt för dig som vill resa med familjen i en avslappnad miljö. Detta rum har två separata sovrum med gemensamt allrum",
+           "price": "400",
+           "adress": "Salongsgatan 1, 123 Stockholm",
+           "open": "Open to 5pm Today",
+           "number": "08-527 663 98",
+           "website": "wehair.com",
+           "shortname":"hair3"
+           
+       },
+       {
+        "name": "Chop Shop",
+        "info": "Detta rum är perfekt för dig som vill resa med familjen i en avslappnad miljö. Detta rum har två separata sovrum med gemensamt allrum",
+        "price": "400",
+        "adress": "Salongsgatan 1, 123 Stockholm",
+        "open": "Open to 5pm Today",
+        "number": "08-527 663 98",
+        "website": "chopshop.com",
+        "shortname":"hair4"
+        
+    },
+    {
+        "name": "The Hair Lair",
+        "info": "Detta rum är perfekt för dig som vill resa med familjen i en avslappnad miljö. Detta rum har två separata sovrum med gemensamt allrum",
+        "price": "400",
+        "adress": "Salongsgatan 1, 123 Stockholm",
+        "open": "Open to 5pm Today",
+        "number": "08-527 663 98",
+        "website": "thehairlair.com",
+        "shortname":"hair5"
+        
+    },
+    {
+        "name": "Live or Dye",
+        "info": "Detta rum är perfekt för dig som vill resa med familjen i en avslappnad miljö. Detta rum har två separata sovrum med gemensamt allrum",
+        "price": "400",
+        "adress": "Salongsgatan 1, 123 Stockholm",
+        "open": "Open to 5pm Today",
+        "number": "08-527 663 98",
+        "website": "liveordye.com",
+        "shortname":"hair6"
+        
+    },
+    {
+        "name": "Undercut",
+        "info": "Detta rum är perfekt för dig som vill resa med familjen i en avslappnad miljö. Detta rum har två separata sovrum med gemensamt allrum",
+        "price": "400",
+        "adress": "Salongsgatan 1, 123 Stockholm",
+        "open": "Open to 5pm Today",
+        "number": "08-527 663 98",
+        "website": "undercut.com",
+        "shortname":"hair7"
+        
+    },
+    {
+        "name": "Cutting Edge",
+        "info": "Detta rum är perfekt för dig som vill resa med familjen i en avslappnad miljö. Detta rum har två separata sovrum med gemensamt allrum",
+        "price": "400",
+        "adress": "Salongsgatan 1, 123 Stockholm",
+        "open": "Open to 5pm Today",
+        "number": "08-527 663 98",
+        "website": "cuttingedge.com",
+        "shortname":"hair8"
+        
+    }
+
+   ]

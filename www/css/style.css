@@ -1,0 +1,26 @@
+
+.splash{
+  background: url("../img/hairwaylogo.png")center;
+}
+.branding{
+  width: 70%;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 80%;
+}
+.branding h3{
+  color: rgb(255, 255, 255);
+}
+.rooms{
+  width: 100%;
+}
+h1, h2, h3, p {
+  font-family: MillerBanner-Light;
+}
+.info{
+  padding: 3% 0 3% 0;
+}
+.checked{
+  color: rgb(255, 217, 0);
+}
