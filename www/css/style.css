@@ -1,6 +1,6 @@
 
 .splash{
-  background: url("../img/hairwaylogo.png")center;
+  background: url("../img/hairwaylogo.png")center no-repeat;
 }
 .branding{
   width: 70%;
