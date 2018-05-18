@@ -3,7 +3,7 @@
     <ion-list class="list">
       <ion-item 
       class="item-text-wrap" 
-      ng-repeat="item in rooms | filter: {shortname:whichsaloon}">
+      ng-repeat="item in saloons | filter: {shortname:whichsaloon}">
         <img ng-src="img/{{item.shortname}}.jpg" class="rooms">
         <h1>{{item.name}}</h1>
         <span class="fa fa-star checked"></span>

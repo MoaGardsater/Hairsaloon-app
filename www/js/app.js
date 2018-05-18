@@ -1,6 +1,6 @@
 angular.module('HairdresserApp', ['ionic'])
 
-  // Lägg till denna metod för att visa flikarna längst ner även på Android.
+  // Lägger till denna metod för att visa flikarna längst ner även på Android.
   .config(function ($ionicConfigProvider) {
     $ionicConfigProvider.platform.android.tabs.position("bottom");
   })
@@ -51,7 +51,7 @@ angular.module('HairdresserApp', ['ionic'])
     // Hämta JSON-listan via http.get()
     $http.get('../model/data.json')
       .success(function (data) {
-        $scope.rooms = data;
+        $scope.saloons = data;
         $scope.whichsaloon = $state.params.aID;
         console.log($scope.whichsaloon);
         // $state innehåller all info om en aktuell state
